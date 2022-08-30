@@ -10,7 +10,8 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about what
 
 - [Building for the planet... and for play!](#building-for-the-planet-and-for-play)
   - [Building for the planet](#building-for-the-planet)
-  - [EdTech, Climate, Future of Work, DE+I](#edtech-climate-future-of-work-dei)
+
+> 🔗 **Links:** [site](https://richard.ng/) | [Twitter](https://twitter.com/richardcrng) | [LinkedIn](https://www.linkedin.com/in/richardcrng/)
 
 <hr />
 
@@ -34,12 +35,3 @@ Here are a few of them:
 > ℹ️ **They're not documented especially well**, since the main use case is "me, Richard, playing with people I know and can quickly explain the rules to".
 >
 > However, *if you already know the underlying board/card game* and have played games remotely before, I *hope* that the UI/UX is sufficiently intuitive for you to pick it up.
-
-<hr />
-
-## EdTech, Climate, Future of Work, DE+I
-
-Links:
-- [personal site](https://richard.ng/)
-- [Twitter, @richardcrng](https://twitter.com/richardcrng)
-- [LinkedIn profile](https://www.linkedin.com/in/richardcrng/)
