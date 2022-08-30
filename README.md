@@ -2,6 +2,10 @@
 
 👋 I'm Richard, co-founder and CTO of [greenworkx](https://greenworkx.org) (edtech / greentech).
 
+> 🔗 **Personal links: [site](https://richard.ng/) | [Twitter](https://twitter.com/richardcrng) | [LinkedIn](https://www.linkedin.com/in/richardcrng/)**
+
+---
+
 In *general*, the best place to find out more about me is my [personal website](https://richard.ng/)...
 
 ... but it's geared towards a non-technical audience!
@@ -12,9 +16,7 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about what
   - [Building for the planet](#building-for-the-planet)
   - [Building for play](#building-for-play)
 
-> 🔗 **Links:** [site](https://richard.ng/) | [Twitter](https://twitter.com/richardcrng) | [LinkedIn](https://www.linkedin.com/in/richardcrng/)
-
-<hr />
+---
 
 ## Building for the planet
 
