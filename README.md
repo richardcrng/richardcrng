@@ -16,6 +16,7 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about my t
 - [Building](#building)
   - [Building for the planet](#building-for-the-planet)
   - [Building for play](#building-for-play)
+- [Open-source](#open-source)
   - [Riduce](#riduce)
 - [Speaking](#speaking)
   - [UPCOMING: *Tackling the toppling tech talent pyramid* (LeadDev Berlin 2022)](#upcoming-tackling-the-toppling-tech-talent-pyramid-leaddev-berlin-2022)
@@ -51,7 +52,7 @@ Here are a few of them:
 - *[Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy)*
 
 ---
-## Open-source
+## Open-source
 
 ### Riduce
 
