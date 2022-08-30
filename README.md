@@ -10,6 +10,7 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about what
 
 - [Building for the planet... and for play!](#building-for-the-planet-and-for-play)
   - [Building for the planet](#building-for-the-planet)
+  - [Building for play](#building-for-play)
 
 > 🔗 **Links:** [site](https://richard.ng/) | [Twitter](https://twitter.com/richardcrng) | [LinkedIn](https://www.linkedin.com/in/richardcrng/)
 
@@ -21,7 +22,7 @@ At [greenworkx](https://greenworkx.org), we’re building the talent portal, sma
 
 📱 **[Try a demo!](https://demo.greenworkx.app)**
 
-## Building for play
+## Building for play
 
 Outside work, board games are a big source of entertainment and relaxation for me.
 
