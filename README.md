@@ -98,3 +98,5 @@ ___
 ![Riduce talk](img/riduce.png)
 
 This talk is an introduction and live demo of [Riduce](#riduce), my open-source library to get rid of reducer boilerplate, that I gave at React Online Global Summit.
+
+***[Watch the talk](https://richardng.notion.site/Watch-the-talk-eb9283c1c51c4aa1881c8354625a273c) | [Read the docs](https://richardng.notion.site/richardng/Riduce-3cb629505a8d49279fe8848e1d564deb)***
