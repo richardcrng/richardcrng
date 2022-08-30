@@ -1,4 +1,4 @@
-# Building for the planet... and for play!
+# Building [for the planet](#building-for-the-planet)... and [for play](#building-for-play)!
 
 👋 I'm Richard, co-founder and CTO of [greenworkx](https://greenworkx.org) (edtech / greentech).
 
@@ -11,10 +11,6 @@ In *general*, the best place to find out more about me is my [personal website](
 ... but it's geared towards a non-technical audience!
 
 So, my GitHub profile `README` (hi there!) is where I talk a bit more about what I've built and am building.
-
-- [Building for the planet... and for play!](#building-for-the-planet-and-for-play)
-  - [Building for the planet](#building-for-the-planet)
-  - [Building for play](#building-for-play)
 
 ---
 
