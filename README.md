@@ -15,8 +15,6 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about what
 
 ---
 
-![greenworkx](img/cover.png)
-
 ## Building for the planet
 
 At [greenworkx](https://greenworkx.org), we’re building the talent portal, smart-matching AI and professional network for the 90% of green jobs that are skilled but accessible frontline trades.
