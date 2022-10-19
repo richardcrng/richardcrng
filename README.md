@@ -30,6 +30,8 @@ This GitHub profile `README` is a bit more focused on my technical work.
 
 At [greenworkx](https://greenworkx.org), we’re building the talent portal, smart-matching AI and professional network for the 90% of green jobs that are skilled manual trades.
 
+![greenworkx screenshots](img/greenworkx-screenshots.png)
+
 📱 **[Try the app!](https://greenworkx.app)**
 
 ### Tech education x DE&I
