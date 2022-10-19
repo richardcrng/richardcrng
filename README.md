@@ -28,9 +28,9 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about my t
 
 ### Building for the planet
 
-At [greenworkx](https://greenworkx.org), we’re building the talent portal, smart-matching AI and professional network for the 90% of green jobs that are skilled but accessible frontline trades.
+At [greenworkx](https://greenworkx.org), we’re building the talent portal, smart-matching AI and professional network for the 90% of green jobs that are skilled manual trades.
 
-📱 **[Try a demo!](https://demo.greenworkx.app)**
+📱 **[Try the app!](https://greenworkx.app)**
 
 ### Building for play
 
