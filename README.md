@@ -2,7 +2,7 @@
 
 👋 I'm Richard, co-founder and CTO of [greenworkx](https://greenworkx.org) (EdTech for Climate).
 
-[![Watch a demo](https://img.youtube.com/vi/79ZArGUW-dY/0.jpg)](https://youtu.be/79ZArGUW-dY)
+[![Watch a demo](img/video-preview.png)](https://youtu.be/79ZArGUW-dY)
 
 🔗 **greenworkx: [site](https://greenworkx.org) | [Twitter](https://twitter.com/joingreenworkx) | [LinkedIn](https://www.linkedin.com/company/joingreenworkx)**
 
