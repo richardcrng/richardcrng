@@ -1,6 +1,6 @@
-# Building [for the planet](#building-for-the-planet)... and [for play](#building-for-play)! <!-- omit in toc -->
+# EdTech, Climate, Future of Work, DE+I <!-- omit in toc -->
 
-👋 I'm Richard, co-founder and CTO of [greenworkx](https://greenworkx.org) (edtech / greentech).
+👋 I'm Richard, co-founder and CTO of [greenworkx](https://greenworkx.org) (EdTech for Climate).
 
 
 🔗 **greenworkx: [site](https://greenworkx.org) | [Twitter](https://twitter.com/joingreenworkx) | [LinkedIn](https://www.linkedin.com/company/joingreenworkx)**
@@ -9,13 +9,13 @@
 
 ---
 
-In *general*, the best place to find out more about me is my [personal website](https://richard.ng/) - but it's geared towards a non-technical audience.
+In *general*, the best place to find out more about me is my [personal website](https://richard.ng/).
 
-So, my GitHub profile `README` (hi there!) is where I talk a bit more about my technical work.
+This GitHub profile `README` is a bit more focused on my technical work.
 
-- [Building](#building)
-  - [Building for the planet](#building-for-the-planet)
-  - [Building for play](#building-for-play)
+- [Work](#work)
+  - [greenworkx](#greenworkx)
+  - [Tech education x DE&I](#tech-education-x-dei)
 - [Open-source](#open-source)
   - [Riduce](#riduce)
 - [Speaking](#speaking)
@@ -24,32 +24,21 @@ So, my GitHub profile `README` (hi there!) is where I talk a bit more about my t
 
 ---
 
-## Building
+## Work
 
-### Building for the planet
+### greenworkx
 
 At [greenworkx](https://greenworkx.org), we’re building the talent portal, smart-matching AI and professional network for the 90% of green jobs that are skilled manual trades.
 
 📱 **[Try the app!](https://greenworkx.app)**
 
-### Building for play
+### Tech education x DE&I
 
-Outside work, board games are a big source of entertainment and relaxation for me.
-
-I occasionally build quick online multiplayer implementations of games (that already exist), to allow for e.g. playing remotely with friends.
-
-> ℹ️ **They're not documented especially well**, since the main use case is "me, Richard, playing with people I know and can quickly explain the rules to".
->
-> However, *if you already know the underlying board/card game* and have played games remotely before, I *hope* that the UI/UX is sufficiently intuitive for you to pick it up.
-
-Here are a few of them:
-- [⛏️ Temple des Schreckens](https://github.com/richardcrng/tempel-des-schreckens)
-- [🪳 Cockroach Poker](https://github.com/richardcrng/cockroach-poker)
-- [⏲️ Two Rooms and a Boom](https://github.com/richardcrng/2r1b)
-
-*Other board games that I like:*
-- *[Scythe](https://boardgamegeek.com/boardgame/169786/scythe)*
-- *[Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy)*
+Prior to greenworkx, my career focus was tech education crossed with DE&I, e.g.:
+- **Head of Education at Academy**, where I built a global tech training programme for cohorts that are 50% female, 60%+ minority ethnic backgrounds and 30% Black
+- **Multiverse software engineering coach**, where I trained school leavers and career changers as software engineers for large enterprises 
+- **teacher trainer with Code Your Future**, where I created training for the volunteers who taught CYF's refugee and asylum seeker trainees
+- **Black Codher software engineering instructor** for two cohorts (40+) Black women learning full-stack software engineering
 
 ---
 ## Open-source
