@@ -17,7 +17,7 @@ Here, I'll chuck in some tech-focused open-source and conference attendance.
 
 ### *Riduce: get rid of your reducer boilerplate!* (React Online Global Summit 2020)
 
-![Riduce talk](img/riduce.png)
+![Riduce talk](img/react-global-2020-still.png)
 
 **[Riduce](https://github.com/richardcrng/riduce)** - formerly **[redux-leaves](https://github.com/richardcrng/redux-leaves)** - is an open-source library that replaces reducer boilerplate with two lines of code.
 
