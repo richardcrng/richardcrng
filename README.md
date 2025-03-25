@@ -46,7 +46,7 @@ ___
 
 ### *Tackling the toppling tech talent pyramid* (LeadDev Berlin 2022)
 
-![LeadDev talk](img/lead-dev-berlin-2022-hero.png)
+![LeadDev talk](img/leaddev-berlin-2022-hero.png)
 
 > **Tackling the toppling tech talent pyramid: a radical challenge to building diverse teams**
 > In this talk, Richard will share insights, data and tips from his experiences in tech talent development within underserved communities - including an industry-wide call-to-arms alongside practical small steps for individual engineering leaders.
