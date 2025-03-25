@@ -6,16 +6,19 @@ Here, I'll chuck in some tech-focused open-source and conference attendance.
 
 ---
 
-### *Tackling the toppling tech talent pyramid* (LeadDev Berlin 2022)
+## *Tackling the toppling tech talent pyramid*
+LeadDev Berlin 2022
 
 ![LeadDev talk](img/leaddev-berlin-2022-hero.png)
 
 > **Tackling the toppling tech talent pyramid: a radical challenge to building diverse teams**
+> 
 > In this talk, Richard will share insights, data and tips from his experiences in tech talent development within underserved communities - including an industry-wide call-to-arms alongside practical small steps for individual engineering leaders.
 
-***[Watch the talk](https://richardng.notion.site/Watch-the-talk-eb9283c1c51c4aa1881c8354625a273c) | [Read the docs](https://richardng.notion.site/richardng/Riduce-3cb629505a8d49279fe8848e1d564deb)***
+***[Watch the talk](https://leaddev.com/hiring/tackling-toppling-tech-talent-pyramid-radical-challenge-building-diverse-teams-0)***
 
-### *Riduce: get rid of your reducer boilerplate!* (React Online Global Summit 2020)
+## *Riduce: get rid of your reducer boilerplate!*
+React Online Global Summit 2020
 
 ![Riduce talk](img/react-global-2020-still.png)
 
